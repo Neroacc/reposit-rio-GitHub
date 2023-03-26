@@ -1,0 +1,9 @@
+Introdução ao desafio de projeto:
+
+Foi ensinado como entregar o desafio de projeto
+
+Como:
+   - Criar
+   - Atualizar
+   - Sincronizar 
+    um repositório no GitHub para entrega de desafio de projeto
